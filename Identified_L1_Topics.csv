@@ -1,0 +1,12 @@
+cluster,topic_identified,count
+0,Theft or Burglary/Vandalism of Business Property,295
+1,Vehicle-related damage to property.,104
+2,Water damage.,376
+3,Business Interruption due to COVID-19,126
+4,"Equipment breakdown/power surge related damages. 
+
+After re-evaluating the claim descriptions, a more concise theme is: **Power Surge/Equipment Breakdown** 
+
+Let's refine it to: **Equipment Failure** 
+
+The most prominent theme is: **Equipment Failure**",99
